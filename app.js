@@ -11,5 +11,5 @@ const app = new Vue({
     restar(){
       this.contador --;
     }
-  },
+  }
 })
